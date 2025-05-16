@@ -22,6 +22,8 @@ This project analyzes U.S. consumer complaint data using an Excel dashboard. It 
 
 ## 📸 Preview
 ![Picture1](https://github.com/user-attachments/assets/7ab06a3e-0dbd-4764-9323-42e3c97c7fe8)
+![R_Dashboard_gif1](https://github.com/user-attachments/assets/0cdb90a2-03f6-4ff6-815f-ac4a9d2ae80d)
+![R_Dashboard_gif2](https://github.com/user-attachments/assets/68a00451-b4ca-445b-92f6-8ef2600245a0)
 
 
 ## 🔍 Key Insights
